@@ -1,4 +1,4 @@
-logoText = "Tex Nevada"
+logoText = ""
 logoType = "short" # long, short
 description = "A personal website for blogs and other nerd stuff"
 custom_css = []
@@ -11,7 +11,7 @@ themeOptions = ["dark", "light", "hacker", "solarized", "kimbie"]
 notAllowedTypesInHome = ["contact", "talks", "about", "project", "publication", "presentation", "resume"]
 notAllowedTypesInHomeSidebar = ["about", "archive", "project", "publication", "presentation", "resume"]
 notAllowedTypesInArchive = ["about", "talks", "project", "publication", "presentation", "resume"]
-notAllowedTypesInHomeFeed = ["about", "archive", "contact", "talks", "project", "publication", "presentation", "resume", "gallery"]
+notAllowedTypesInHomeFeed = ["about", "archive", "contact", "talks", "project", "publication", "presentation", "resume"]
 
 viewportSize = "normal" # widest, wider, wide, normal, narrow
 enableUiAnimation = true
@@ -41,7 +41,7 @@ searchThreshold = 0.4 # 0.0: exact match, 1.0: any match
 # body
 enableBreadcrumb = true
 enableGoToTop = true
-enableWhoami = true
+enableWhoami = false
 summaryShape = "classic" # card, classic, compact
 archiveGroupByDate = "2006" # "2006-01": group by month, "2006": group by year
 archivePaginate = 13
@@ -89,10 +89,10 @@ tocLevels = ["h2", "h3", "h4"]
 enableSidebarPostsByOrder = false
 
 # footer
-showPoweredBy = true
+showPoweredBy = false
 showFeedLinks = true
 showSocialLinks = true
-enableLangChange = true
+enableLangChange = false
 enableThemeChange = true
 
 # service
@@ -109,7 +109,7 @@ updateFrequency = ""
 fullContents = false
 
 # comment
-enableComment = true
+enableComment = false
 disqus_shortname = ""
 commento = false
 
@@ -126,7 +126,7 @@ commento = false
 
 [utterances]       # https://utteranc.es/
   owner = "15308761"              # Your GitHub ID
-  repo = "website-comments"               # The repo to store comments
+  repo = "texnevada/website-comments"               # The repo to store comments
 
 [gitalk]           # Gitalk is a comment system based on GitHub issues. see https://github.com/gitalk/gitalk
   owner = ""              # Your GitHub ID
