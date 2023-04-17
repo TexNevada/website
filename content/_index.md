@@ -25,7 +25,7 @@ header:
     paddingY: 0
     align: center
     title:
-      - Tex Nevada
+      - edb tools!
     subtitle:
       - For nerdy & techy stuff
     titleColor: 

@@ -1,6 +1,6 @@
-logoText = ""
+logoText = "edb tools!"
 logoType = "short" # long, short
-description = "A personal website for blogs and other nerd stuff"
+description = "A website for techy and other nerdy stuff"
 custom_css = []
 custom_js = []
 useFaviconGenerator = true # https://www.favicon-generator.org/

@@ -1,5 +1,5 @@
-baseURL = "https://texnevada.net"
-title = "Home of nerd stuff"
+baseURL = "https://edb.tools/"
+title = "Home of nerd & techy stuff"
 theme = "zzo"
 
 defaultContentLanguage = "en"
