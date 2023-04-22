@@ -57,7 +57,7 @@ Once you have downloaded MultiMC from the requirements above, you can install th
 Press `Add Instance` 
 ![](https://cdn.edb.tools/NS/Minecraft/Resources/Modded/Season5/Mod-install-part-1.png)
 
-Select `Import from zip` and paste the following link into the box: `https://cdn.edb.tools/NS/Minecraft/Resources/Modded/Season5/Modpack.zip`
+Select `Import from zip` and paste the following link into the box: `https://cdn.edb.tools/NS/Minecraft/Resources/Modded/Season5/modpack.zip`
 ![](https://cdn.edb.tools/NS/Minecraft/Resources/Modded/Season5/Mod-install-part-2.png)
 
 {{< /expand >}}
