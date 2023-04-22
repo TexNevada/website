@@ -68,6 +68,9 @@ Some keybindings are different from the default settings. This is to make the ke
 #### VoiceChat mod
 The server has a VoiceChat mod! However the settings might not be perfectly set for your system. I recommend you to check the settings and change them to your liking. The keybind for the VoiceChat mod is `V`.
 
+#### Web map
+We have a web map for the server! You can access it by going to [http://nevadaskies.net:8123](https://nevadaskies.net:8123). The website only works when the server is running. So if it is down, it means the server is down.
+
 #### Mods in the modpack
 {{< expand "Mods in the modpack" >}}
 
