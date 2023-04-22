@@ -20,6 +20,7 @@ series:
 To play this modpack. You need the following requirements
 | Requirements | Download links |
 | ------------ | --------------- |
+| Java         | [Download page](https://download.oracle.com/java/17/archive/jdk-17.0.7_windows-x64_bin.exe) |
 | MultiMC      | [Download page](https://multimc.org/#Download) |
 
 #### Welcome to the USW!
