@@ -4,6 +4,7 @@ date: {{ .Date }}
 description: 
 draft: true
 pinned: false
+image: 
 tags:
 - tag
 categories:
