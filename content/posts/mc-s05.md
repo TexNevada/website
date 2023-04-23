@@ -53,6 +53,8 @@ _**I recommend you read the KeyBinds page before you start playing on the server
 The server has been added to the modpack's server list. The server is however whitelisted. Make sure you have access to the server before you download the modpack. 
 {{< /alert >}}
 
+First you need to install Java 17 if you don't already have it installed. The download link can be found at the top of the page under `Requirements`. Once you have installed Java 17, you need to download MultiMC. The download link can also be found at the top of the page under `Requirements`. 
+
 Once you have downloaded MultiMC from the requirements above, you can install the modpack by following these steps:
 
 Press `Add Instance` 
