@@ -60,7 +60,9 @@ Once you have downloaded MultiMC from the requirements above, you can install th
 Press `Add Instance` 
 ![](https://cdn.edb.tools/NS/Minecraft/Resources/Modded/Season5/Mod-install-part-1.png)
 
-Select `Import from zip` and paste the following link into the box: `https://cdn.edb.tools/NS/Minecraft/Resources/Modded/Season5/modpack.zip`
+Select `Import from zip` and paste the following link into the box: 
+New Modpack: `Coming soon`
+Old modpack: `https://cdn.edb.tools/NS/Minecraft/Resources/Modded/Season5/modpack.zip`
 ![](https://cdn.edb.tools/NS/Minecraft/Resources/Modded/Season5/Mod-install-part-2.png)
 
 {{< /expand >}}
@@ -74,7 +76,55 @@ The server has a VoiceChat mod! However the settings might not be perfectly set 
 #### Web map
 We have a web map for the server! You can access it by going to [http://nevadaskies.net:8123](http://nevadaskies.net:8123). The website only works when the server is running. So if it is down, it means the server is down.
 
-#### Mods in the modpack
+#### Mods in the modpack Fabric ( New )
+{{< expand "Mods in the modpack" >}}
+
+>3d Skin Layers
+>Another Furniture
+>Applied Energistics 2
+>AudioPlayer
+>BetterF3
+>Charm of Undying (in trinket's slot)
+>Cosmetic Armor
+>Create
+>Create Crafts & Additions
+>Create Deco
+>Create Ore Excavation
+>Create: Steam 'n Rails
+>Extended Cogwheels
+>Extended Flywheels
+>Farmer's Delight
+>Forgiving Void
+>Friends & Foes
+>Hearth & Home
+>Iris (For shadersa)
+>JourneyMap 
+>Just Enough Items 
+>Lamb Dynamic Lights (Torch light)
+>Macaw's Bridges 
+>Macaw's Doors 
+>Macaw's Fences and Walls 
+>Macaw's Roofs 
+>Macaw's Trapdoors 
+>Macaw's Windows 
+>Mining Dimensions 
+>Mouse Tweaks 
+>Naturalist (Ads realistic animals)
+>No Chat Reports 
+>No Fade (Removes Fading animation)
+>Not Enough Animations 
+>Simple Discord Rich Presence 
+>Simple Voice Chat
+>Supplementaries
+>Traveler's Backpack
+>Trinkets slots (Basically Curious)
+>You're in Grave Danger
+>And more optimizations and fixes
+
+{{< /expand >}}
+
+
+#### Mods in the modpack Forge ( Old )
 {{< expand "Mods in the modpack" >}}
 
 {{< alert theme="info" >}}
