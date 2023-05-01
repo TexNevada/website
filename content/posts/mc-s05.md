@@ -195,3 +195,7 @@ The current mods in the modpack are:
 ![](https://cdn.edb.tools/NS/Minecraft/Resources/Modded/Season5/disable-first-person-part-2.png)
 
 {{< /expand >}}
+
+A special thanks for DigitalOcean who I use to host all my applications in!
+By pressing the image below you get a $200 credit for 60 days! That means a free minecraft server for 2 months!
+[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=a4ddc2057326&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
