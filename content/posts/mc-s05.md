@@ -61,7 +61,7 @@ Press `Add Instance`
 ![](https://cdn.edb.tools/NS/Minecraft/Resources/Modded/Season5/Mod-install-part-1.png)
 
 Select `Import from zip` and paste the following link into the box: 
-New Modpack: `Coming soon`
+New Modpack: `https://cdn.edb.tools/NS/Minecraft/Resources/Modded/Season5/Nevada-Skies-Modded-Fabric-Edition.zip`
 Old modpack: `https://cdn.edb.tools/NS/Minecraft/Resources/Modded/Season5/modpack.zip`
 ![](https://cdn.edb.tools/NS/Minecraft/Resources/Modded/Season5/Mod-install-part-2.png)
 
