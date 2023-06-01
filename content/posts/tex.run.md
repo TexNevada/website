@@ -1,6 +1,6 @@
 ---
 title: "I now own https://tex.run/"
-date: 2023-04-23
+date: 2023-06-01
 description: 
 draft: false
 pinned: false
