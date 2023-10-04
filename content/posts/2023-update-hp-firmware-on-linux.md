@@ -1,4 +1,5 @@
 ---
+author: Tex Nevada
 title: "How to update HP Firmware on Linux!"
 date: 2023-10-04T10:30:00+02:00
 description: An easy guide to updating HP Firmware on linux!
