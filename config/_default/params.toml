@@ -60,17 +60,17 @@ publicationIcon = "📚"
 typeIcon = "🎯"
 
 # whoami
-myname = "Tex Nevada"
+myname = ""
 email = ""
-whoami = "DevOps Engineer"
+whoami = ""
 bioImageUrl = ""
 useGravatar = false
-location = "Norway"
+location = ""
 organization = ""
 link = ""
 
 # sidebar
-enableBio = true
+enableBio = false
 enableBioImage = true
 enableSidebar = true
 enableSidebarTags = false
