@@ -1,7 +1,7 @@
 ---
 title: "How to update HP Firmware on Linux!"
 date: 2023-10-04T10:30:00+02:00
-description: 
+description: An easy guide to updating HP Firmware on linux!
 draft: false
 pinned: false
 image: https://cdn.edb.tools/edbTools/2023/2023-update-hp-firmware-on-linux/hp-logo.png
@@ -14,7 +14,7 @@ categories:
 series:
 ---
 
-# Sow how we update HP Firmware on Linux?
+# So how we update HP Firmware on Linux?
 
 HP isn’t exactly known as the most friendliest vendor when it comes to linux client machines be it Software or Firmware but that doesn’t mean there is other ways to install HP firmware on your machine.
 
