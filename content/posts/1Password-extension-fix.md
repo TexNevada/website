@@ -1,11 +1,11 @@
 ---
 author: Tex Nevada
 title: "1Password Extension fix for other Browsers on Linux"
-date: 2023-06-01T10:00:00+02:00
+date: 2023-11-13T10:00:00+02:00
 description: 1Password is a fantastic Password manager. However it doesn't support Vivaldi or other lesser used Web Browsers out of the box. Here is how to fix it.
 draft: false
 pinned: false
-image: # GET AN IMAGE HERE
+image: https://cdn.edb.tools/Other/Pictures/edbtools/1Password_icon.png
 tags:
 - 1Password
 - 1Password chrome extension
