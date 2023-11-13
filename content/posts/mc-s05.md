@@ -2,7 +2,7 @@
 author: Tex Nevada
 title: "Nevada Skies Season 5!"
 date: 2023-04-22T12:07:45+02:00
-description: 
+description: This season has ended! Thanks for the memories =)
 draft: false
 pinned: false
 image: https://cdn.edb.tools/NS/Minecraft/Fallout76_square.png
