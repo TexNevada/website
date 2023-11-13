@@ -1,4 +1,5 @@
 ---
+author: Tex Nevada
 title: "Nevada Skies Season 5!"
 date: 2023-04-22T12:07:45+02:00
 description: 
@@ -16,6 +17,9 @@ series:
 
 # Minecraft Season 5 of Nevada Skies is upon us!
 <!--more-->
+
+### This season is over.
+
 
 To play this modpack. You need the following requirements
 | Requirements | Download links |
