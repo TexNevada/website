@@ -4,7 +4,7 @@ title: "Why Edb.tools"
 date: 2023-04-18T00:36:13+02:00
 description: Why this website?
 draft: false
-pinned: true
+pinned: false
 tags:
 categories:
 series:
