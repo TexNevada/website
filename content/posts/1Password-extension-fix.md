@@ -68,7 +68,7 @@ This file is a whitelist for 1Password to allow a connection between application
 sudo mkdir /etc/1password
 sudo touch /etc/1password/custom_allowed_browsers
 # Just replace Vivaldi with whatever browser you want to use.
-echo "vivaldi-bin" > /etc/1password/custom_allowed_browsers
+sudo echo "vivaldi-bin" > /etc/1password/custom_allowed_browsers
 sudo chown root:root /etc/1password/custom_allowed_browsers
 sudo chmod 755 /etc/1password/custom_allowed_browsers
 ```
