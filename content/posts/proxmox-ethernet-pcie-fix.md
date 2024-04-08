@@ -1,6 +1,6 @@
 ---
 title: "How to fix: Lost ethernet on Proxmox after GPU install!"
-date: 2024-04-08T20:03+02:00
+date: 2024-04-08T20:03:00+02:00
 description: Ever lost ethernet on Proxmox after a GPU install? So have I. That's why I wrote this guide so you can easily fix it as well.
 author: 
 authorEmoji: 
