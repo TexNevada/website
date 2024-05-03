@@ -13,7 +13,7 @@ tags:
   - modded
 categories:
   - minecraft
-series: Nevada Skies Minecraft Seasons
+series: []
 ---
 
 # Minecraft Season 6 of Nevada Skies is upon us!
@@ -234,8 +234,6 @@ There is so much jam packed into this mod pack I highly recommend to check out a
 >Entity Model Features
 >Entity Texture Features
 >myLoot
-
-
 
 {{< /expand >}}
 
