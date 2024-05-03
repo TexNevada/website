@@ -4,8 +4,8 @@ title: Nevada Skies Season 5!
 date: 2024-04-22T12:00:00+02:00
 description: This season has ended! Thanks for the memories =)
 authorEmoji: 
-draft: true
-pinned: true
+draft: false
+pinned: false
 image: https://cdn.edb.tools/NS/Minecraft/Fallout76_square.png
 tags:
   - minecraft
