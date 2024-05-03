@@ -1,6 +1,6 @@
 ---
 author: Tex Nevada
-title: Nevada Skies Season 5!
+title: Nevada Skies Season 6!
 date: 2024-05-01T19:00:00+02:00
 description: This season has ended! Thanks for the memories =)
 authorEmoji: 
