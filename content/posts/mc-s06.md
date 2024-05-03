@@ -1,7 +1,7 @@
 ---
 author: Tex Nevada
 title: Nevada Skies Season 6!
-date: 2024-05-01T19:00:00+02:00
+date: 2024-05-03T19:00:00+02:00
 description: An unexpected Journey!
 authorEmoji: 
 draft: false
